@@ -1,8 +1,6 @@
 import numpy as np
 
 print ('working')
-def fun(c):
+def fun(c = 15):
     print(c)
 
-
-fun(5)
